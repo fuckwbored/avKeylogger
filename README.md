@@ -1,4 +1,4 @@
-# avKeylogger
+# ⌨️ avKeylogger - telegram keylogger ⌨️
 ```                
              ____  __.            
 _____ ___  _|    |/ _|____ ___.__.
@@ -8,9 +8,9 @@ _____ ___  _|    |/ _|____ ___.__.
      \/             \/   \/\/      
 ```
 
-simple keylogger that sends keylogs in your bot. written on python 3
+Simple keylogger that sends keylogs in your telegram bot. Written on python 3 🐍
 
-# Instruction
+# Instruction 📓
 1. Here paste your bot token and your telegram id
 
 ![photo](https://i.imgur.com/ZWWRAh2.png)
@@ -23,3 +23,8 @@ simple keylogger that sends keylogs in your bot. written on python 3
 
 ![kaka1](https://i.imgur.com/Q9UUJa1.jpg)
 
+## Contact info 📱
+
+###### Our telegram channel - https://t.me/qewprojects
+
+###### My telegram: https://t.me/termqew
