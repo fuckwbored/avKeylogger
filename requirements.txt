@@ -1,0 +1,8 @@
+pynput
+telebot
+geocoder
+requests
+getpass
+shutil
+colorama
+subprocess
