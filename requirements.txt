@@ -1,5 +1,5 @@
 pynput
-telebot
+pyTelegramBotAPI
 geocoder
 requests
 getpass
