@@ -1,12 +1,6 @@
 # ⌨️ avKeylogger - telegram keylogger ⌨️
-```                
-             ____  __.            
-_____ ___  _|    |/ _|____ ___.__.
-\__  \\  \/ /      <_/ __ <   |  |
- / __ \\   /|    |  \  ___/\___  |
-(____  /\_/ |____|__ \___  > ____|
-     \/             \/   \/\/      
-```
+
+![demka](https://i.imgur.com/gkZXkRf.gif)
 
 Simple keylogger that sends keylogs in your telegram bot. Written on python 3 🐍
 
@@ -28,3 +22,7 @@ Simple keylogger that sends keylogs in your telegram bot. Written on python 3 �
 ###### Our telegram channel - https://t.me/qewprojects
 
 ###### My telegram: https://t.me/termqew
+
+## WARNING ⚠️
+
+this tool was created for educational purposes only. I'm not responsible for the damage!
