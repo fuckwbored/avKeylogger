@@ -6,3 +6,4 @@ getpass
 shutil
 colorama
 subprocess
+pyinstaller
